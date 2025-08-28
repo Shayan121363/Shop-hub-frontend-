@@ -4,6 +4,7 @@ import {
   Mail, Phone, MapPin, Clock, CreditCard, Shield, HelpCircle 
 } from 'lucide-react';
 
+//test 123
 const Footer = () => {
   return (
     <footer className="footer">
